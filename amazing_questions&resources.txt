@@ -22,3 +22,4 @@ Dynamic Programming
 
 Resources
 1. For dp - https://codeforces.com/blog/entry/70018
+2. For mathematics - https://codeforces.com/blog/entry/82103
