@@ -9,8 +9,9 @@ Dynamic Programming
 - Counting Numbers
 
 
-
-
+Sorting and Searching
+- Collecting Numbers 2
+- Nested Ranges Count 2
 
 
 
